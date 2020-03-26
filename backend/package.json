@@ -1,0 +1,23 @@
+{
+  "name": "omnistack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandHilt/omnistack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandHilt/omnistack/issues"
+  },
+  "homepage": "https://github.com/SandHilt/omnistack#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
